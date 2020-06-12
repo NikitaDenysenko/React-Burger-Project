@@ -16,3 +16,4 @@ class App extends Component {
 }
 
 export default App;
+/* withErrorHandler,BurgerBuilder,axios-orders, Spinner, Modal */
